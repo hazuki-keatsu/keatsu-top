@@ -1,8 +1,8 @@
 # Keatsu Top
 
-🌸 这是 [Hazuki Keatsu](https://github.com/hazuki-keatsu) 的个人博客仓库，现正部署在 [Vercel](https://vercel.com/)
+🌸 这是 [Hazuki Keatsu](https://github.com/hazuki-keatsu) 的个人博客仓库，使用的 [Aero Paper](https://github.com/hazuki-keatsu/aero-paper) 主题，现正部署在 [Vercel](https://vercel.com/)
 
-📃 Demo：[keatsu.top](https://keatsu.top)
+📃 博客链接：[keatsu.top](https://keatsu.top)
 
 ![Header](header.jpg)
 
